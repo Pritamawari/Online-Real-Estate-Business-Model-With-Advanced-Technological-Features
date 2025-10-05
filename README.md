@@ -185,16 +185,20 @@ real estate transactions, making the process more efficient, transparent, and ac
 # REFERENCES
 [1]
 Gonzalez, A., & Lee, S. (2019). Blockchain in real estate: Potential and current applications. Journal of 
-Property Investment & Finance, 37(3), 231-244. https://doi.org/10.1108/JPIF-10-2018-0086
+Property Investment & Finance, 37(3), 231-244. https://doi.org/10.1108/JPIF-10-2018-0086.
+
 [2]
 Smith, J. (2020). The impact of AI on home valuations: A study of Zillow’s Zestimate. Real Estate 
-Technology Review, 15(2), 45-59. https://doi.org/10.1177/RET2154530120
+Technology Review, 15(2), 45-59. https://doi.org/10.1177/RET2154530120.
+
 [3]
 Williams, T. (2021). Virtual reality’s role in the real estate industry post-pandemic. Real Estate Journal, 
 38(4), 92-105.
+
 [4]
 Zillow. (2022). Zillow’s data-driven approach to real estate: The Zestimate and beyond. Retrieved from 
 https://www.zillow.com/research/zestimate/
+
 [5]
 Opendoor. (2021). How Opendoor is transforming home sales through iBuying. Retrieved from 
 https://www.opendoor.com/resource
